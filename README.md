@@ -1,39 +1,39 @@
-# 📝 Social Content Bot
+# 📝 AI Social Content Automation Bot
 
 ## 📌 Overview
+An AI-powered content generation system that creates high-quality, platform-optimized social media posts for LinkedIn, Twitter, and Instagram.
 
-Generates high-quality social media content using AI.
+Designed to help creators, freelancers, and businesses automate their content workflow and maintain consistent online presence.
+
+---
 
 ## 🎯 Problem
+Creating engaging, platform-specific content daily is time-consuming and requires creativity, consistency, and strategy.
 
-Creating engaging content daily is time-consuming.
+---
 
 ## 💡 Solution
+This system automates content generation using LLMs, enabling users to generate ready-to-post content in seconds with customizable prompts.
 
-Automatically generate posts for platforms like LinkedIn, Twitter, and Instagram.
+---
 
 ## ⚡ Features
+- AI-generated social media posts (LinkedIn, Twitter, Instagram)
+- Prompt-based customization for tone, niche, and audience
+- Platform-specific formatting
+- Scalable content generation workflows
 
-* AI-generated posts
-* Multi-platform formatting
-* Custom prompts
+---
 
 ## 🛠 Tech Stack
+- Python
+- OpenAI API / Claude API
+- Prompt Engineering
 
-Python, OpenAI API
+---
 
 ## ▶️ How to Run
-
 ```bash
+git clone https://github.com/your-username/social-content-bot.git
+cd social-content-bot
 python generator.py
-```
-
-## 🚀 Future Improvements
-
-* Post scheduling
-* UI dashboard
-* Analytics integration
-
-## 📸 Demo
-
-Coming soon...
